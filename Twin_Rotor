@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOU26DqjS1vEFOBhNuGVyAc",
+      "authorship_tag": "ABX9TyNDWEKJySzoRCtgG4y6kvHp",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,14 +23,14 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/kush450629/ME421_GROUP_A1/blob/main/Twin_Rotor/ME421_E20045_Twin_rotor.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/kush450629/ME421_GROUP_A1/blob/main/Twin_Rotor\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "Bc0vhOMDXvoD"
+        "id": "QfoS84B8pvRR"
       },
       "outputs": [],
       "source": []
